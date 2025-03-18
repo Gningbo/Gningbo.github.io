@@ -1,0 +1,28 @@
+zh-CN:
+  # 网站导航
+  nav:
+    home: 首页
+    about: 关于
+    archives: 归档
+    categories: 分类
+    tags: 标签
+    search: 搜索
+    follow_me: 关注我
+    subscribe: 订阅
+  # 文章相关
+  post:
+    written_by: 作者
+    reading_time:
+      unit: 分钟
+      prompt: 阅读时长
+    related_posts: 相关文章
+  # 其他界面元素
+  pagination:
+    newer: 较新
+    older: 较旧
+  # 社交链接
+  social:
+    email: 邮箱
+    rss: RSS
+    twitter: Twitter
+    github: GitHub
