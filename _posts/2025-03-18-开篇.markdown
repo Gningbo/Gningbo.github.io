@@ -1,6 +1,0 @@
----
-title: 失败的本科
-categories: [求学,本科]
-tags: [读书]     # TAG names should always be lowercase
----
-
