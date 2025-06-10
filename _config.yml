@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: 小小小宁波 # the main title
 
-tagline: 想到——做到——得到 # it will display as the subtitle
+tagline: 正经人谁写日记啊 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -28,8 +28,8 @@ url: ""
 github:
   username: Gningbo # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+# twitter:
+#   username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
